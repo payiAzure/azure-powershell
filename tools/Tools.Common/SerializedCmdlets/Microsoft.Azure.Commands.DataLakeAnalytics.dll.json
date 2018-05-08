@@ -15133,7 +15133,9 @@
         },
         {
           "Name": "Tag",
-          "AliasList": [],
+          "AliasList": [
+            "Tags"
+          ],
           "Type": {
             "Namespace": "System.Collections",
             "Name": "System.Collections.Hashtable",
@@ -15367,7 +15369,9 @@
             {
               "ParameterMetadata": {
                 "Name": "Tag",
-                "AliasList": [],
+                "AliasList": [
+                  "Tags"
+                ],
                 "Type": {
                   "Namespace": "System.Collections",
                   "Name": "System.Collections.Hashtable",
@@ -15933,7 +15937,9 @@
         },
         {
           "Name": "Tag",
-          "AliasList": [],
+          "AliasList": [
+            "Tags"
+          ],
           "Type": {
             "Namespace": "System.Collections",
             "Name": "System.Collections.Hashtable",
@@ -16153,7 +16159,9 @@
             {
               "ParameterMetadata": {
                 "Name": "Tag",
-                "AliasList": [],
+                "AliasList": [
+                  "Tags"
+                ],
                 "Type": {
                   "Namespace": "System.Collections",
                   "Name": "System.Collections.Hashtable",
